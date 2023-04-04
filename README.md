@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @laubjkri
 - 👀 I’m interested in C++, js, C#
-- 🌱 I’m currently learning js (node backend, react frontend)
+- 🌱 I’m currently learning js (node backend, angular frontend) and C#
